@@ -6,6 +6,6 @@ Link to gameplay video: http://olszemi.pl/bopnrumble.html
 
 Screenshots:
 
-![Image of BopNRumblePSP](https://github.com/olszemi/BopNRumblePSP/screenshots/bopNRumble.jpg)
-![Image of BopNRumblePSP](https://github.com/olszemi/BopNRumblePSP/screenshots/bopNRumbleCloud.jpg)
-![Image of BopNRumblePSP](https://github.com/olszemi/BopNRumblePSP/screenshots/bopNRumbleCrouch.jpg)
+![Image of BopNRumblePSP](screenshots/bopNRumble.jpg)
+![Image of BopNRumblePSP](screenshots/bopNRumbleCloud.jpg)
+![Image of BopNRumblePSP](screenshots/bopNRumbleCrouch.jpg)
